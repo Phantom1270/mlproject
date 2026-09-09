@@ -145,6 +145,7 @@ venv.bak/
 # ML generated files
 artifacts/
 notebook/catboost_info/
+catboost_info/
 
 # Spyder project settings
 .spyderproject
